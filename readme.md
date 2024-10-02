@@ -1,3 +1,6 @@
+【留档申明】原作者【Jerry457】（原仓库已删除）
+本项目仅供留档保存
+
 需要安装Python3.11版本: [Download Python | Python.org](https://www.python.org/downloads/)
 需要安装PIL库: `pip install pillow`
 
